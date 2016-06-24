@@ -23,10 +23,12 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="REST MyService1 Spring" />
+        <module name="Spock" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="REST MyService1 Spring" target="1.8" />
+      <module name="Spock" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

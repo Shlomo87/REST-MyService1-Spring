@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/REST MyService1 Spring.iml" filepath="$PROJECT_DIR$/REST MyService1 Spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spock/Spock.iml" filepath="$PROJECT_DIR$/Spock/Spock.iml" />
     </modules>
   </component>
 </project>
